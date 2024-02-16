@@ -1,0 +1,53 @@
+/* CARRES */
+
+[id^="exo"]  .carre {
+    height: 150px;
+    width: 150px;
+    background-color: #03C4EB;
+}
+
+/* Exercice #01 */
+
+/* Exercice #02 */
+
+/* Exercice #03 */
+
+/* Exercice #04 */
+
+/* Exercice #05 */
+
+/* Exercice #06 */
+
+/* Exercice #07 */
+
+/* Exercice #08 */
+
+/* Exercice #09 */
+
+/* Exercice #10 */
+
+/* Exercice #11 */
+
+/* Exercice #12 */
+    
+/* Exercice #13 */
+
+/* Exercice #14 */
+    
+/* Exercice #15 */
+
+/* Exercice #16 */
+
+div#exo_16 {
+  width:300px;
+  height:200px;
+  background-image:url(https://www.aquaportail.com/pictures1106/phones/anemone-clown_1307889811-fleur.jpg);
+}
+
+/* Exercice #17 */
+
+figure {
+  overflow: hidden;
+  width:220px;
+  height:160px;
+}
